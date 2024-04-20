@@ -1,6 +1,7 @@
-# React + Vite
+# Desafio API Rick and Morty
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este desafio utiliza variables de entorno
+debes llamar a https://rickandmortyapi.com/api con la variable de entorno VITE_API_BASE_URL en .env.local
 
 Currently, two official plugins are available:
 
